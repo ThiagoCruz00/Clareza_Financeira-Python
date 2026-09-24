@@ -1,0 +1,45 @@
+{
+  "versao": "1.0",
+  "tema": "educacao_financeira_pessoal",
+  "avisos": [
+    "Este conteúdo é educativo e não substitui orientação profissional personalizada.",
+    "Nunca compartilhe senhas, códigos de autenticação ou dados completos de cartão."
+  ],
+  "artigos": [
+    {
+      "id": "orcamento",
+      "titulo": "Como começar um orçamento",
+      "perguntas": ["como fazer orçamento", "organizar meu dinheiro", "controlar gastos", "planejar gastos"],
+      "resposta": "Comece anotando sua renda líquida e todos os gastos por 30 dias. Separe despesas essenciais, variáveis e dívidas. Depois, defina um limite para cada categoria e revise o plano semanalmente.",
+      "proximo_passo": "Registre hoje os últimos sete dias de gastos e classifique cada lançamento."
+    },
+    {
+      "id": "reserva",
+      "titulo": "Reserva de emergência",
+      "perguntas": ["o que é reserva de emergência", "quanto guardar", "reserva financeira", "dinheiro para emergência"],
+      "resposta": "A reserva de emergência é um valor separado para imprevistos, como perda de renda ou despesas médicas. Um objetivo inicial é acumular um mês de despesas essenciais e evoluir gradualmente para alguns meses, conforme sua estabilidade e realidade.",
+      "proximo_passo": "Calcule suas despesas essenciais mensais e escolha um valor automático, mesmo que pequeno, para começar."
+    },
+    {
+      "id": "dividas",
+      "titulo": "Organização de dívidas",
+      "perguntas": ["como sair das dívidas", "tenho dívidas", "juros altos", "negociar dívida", "cartão atrasado"],
+      "resposta": "Liste cada dívida, saldo, juros, parcela e vencimento. Priorize as que têm juros mais altos e evite assumir novas parcelas enquanto organiza o orçamento. Antes de aceitar um acordo, compare o custo total e confirme se a parcela cabe no orçamento.",
+      "proximo_passo": "Monte uma tabela com todas as dívidas e destaque a que possui o maior custo efetivo."
+    },
+    {
+      "id": "golpes",
+      "titulo": "Segurança contra golpes",
+      "perguntas": ["caí em um golpe", "golpe", "pix suspeito", "link falso", "segurança financeira", "fraude"],
+      "resposta": "Não envie senhas ou códigos e não clique em links suspeitos. Se houve uma transação não reconhecida, contate imediatamente o banco pelos canais oficiais, registre a ocorrência e guarde comprovantes. O assistente não consegue bloquear uma conta ou recuperar valores.",
+      "proximo_passo": "Entre em contato com seu banco usando o aplicativo ou o telefone que aparece no cartão oficial, nunca o número recebido por mensagem."
+    },
+    {
+      "id": "compras",
+      "titulo": "Decisão antes de comprar",
+      "perguntas": ["posso comprar", "compra parcelada", "preciso comprar", "como decidir uma compra"],
+      "resposta": "Antes de comprar, verifique se a despesa é necessária, se existe dinheiro reservado e qual será o impacto no orçamento dos próximos meses. Compare o preço à vista com o custo total parcelado e evite decidir sob pressão.",
+      "proximo_passo": "Espere 24 horas antes de uma compra não essencial e escreva o impacto da parcela no orçamento mensal."
+    }
+  ]
+}
